@@ -13,10 +13,22 @@
     "isolatedModules": true,
     "jsx": "preserve",
     "incremental": true,
+<<<<<<< HEAD
+=======
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+>>>>>>> deb814962abcfcdc0bae77c26ee260b700957da1
     "paths": {
       "@/*": ["./*"]
     }
   },
+<<<<<<< HEAD
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+=======
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+>>>>>>> deb814962abcfcdc0bae77c26ee260b700957da1
   "exclude": ["node_modules"]
 }
