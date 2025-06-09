@@ -256,3 +256,6 @@ Vercel Deployment
 
 📌 Ghi chú
 Dự án này được thực hiện với mục đích học tập, không sử dụng cho mục đích thương mại. Chào mừng các bạn đóng góp, cải tiến và sử dụng cho đồ án cá nhân
+***Thành viên nhóm
+-Thái Trung Thiện. Mã sv: 23010212
+-Vũ Quốc Toản. Mã sv: 23010003
