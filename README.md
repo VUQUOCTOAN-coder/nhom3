@@ -259,3 +259,4 @@ Dự án này được thực hiện với mục đích học tập, không sử
 ***Thành viên nhóm
 -Thái Trung Thiện. Mã sv: 23010212
 -Vũ Quốc Toản. Mã sv: 23010003
+ [Tải báo cáo bài tập lớn tại đây](./bao-cao-bao-tap-lon-nhom-3.docx)
